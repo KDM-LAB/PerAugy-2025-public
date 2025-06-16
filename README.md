@@ -14,10 +14,10 @@ This repository provides a step-by-step pipeline for preparing and processing th
 
 Start by downloading the PENS dataset, which contains the following files:
 
-* `train.json`
-* `val.json`
-* `test.json`
-* `news.json`
+* `train.tsv`
+* `valid.tsv`
+* `test.tsv`
+* `news_min.tsv`
 
 Ensure these files are placed in the appropriate directory for further processing.
 
