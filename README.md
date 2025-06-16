@@ -1,4 +1,4 @@
-# PENS-UIG Dataset Processing Pipeline
+# PerAugy: Diversity Augmentation of Dynamic User Preference Data for Boosting Personalized Text Summarizers
 
 This repository provides a step-by-step pipeline for preparing and processing the PENS dataset for sequential recommendation tasks using synthetic user interaction graphs (UIGs).
 
@@ -14,10 +14,10 @@ This repository provides a step-by-step pipeline for preparing and processing th
 
 Start by downloading the PENS dataset, which contains the following files:
 
-* `train.tsv`
-* `valid.tsv`
-* `test.tsv`
-* `news_min.tsv`
+* `train.json`
+* `val.json`
+* `test.json`
+* `news.json`
 
 Ensure these files are placed in the appropriate directory for further processing.
 
